@@ -4,9 +4,6 @@ Easy IFTTT Maker Channel requests
 Docs:
 
 '''python
-
-import requests
-
 def iftttMaker(event, key, value1="", value2="", value3=""):
     """
     Input your event and key as specified on the IFTTT Maker Channel.
