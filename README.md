@@ -3,7 +3,7 @@ Easy IFTTT Maker Channel requests
 
 Docs:
 
-'''python
+```python
 def iftttMaker(event, key, value1="", value2="", value3=""):
     """
     Input your event and key as specified on the IFTTT Maker Channel.
@@ -15,4 +15,4 @@ def iftttMaker(event, key, value1="", value2="", value3=""):
     payload = r"{ 'value1 = '" + value1 + "', value2 = '" + value2 + "', value3 = '"+ value3 +"'}"
     requests.post(r"https://maker.ifttt.com/trigger/" + event +"/with/key/" + key, data=payload)
 
-'''
+```
