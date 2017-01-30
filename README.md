@@ -2,8 +2,8 @@
 Easy IFTTT Maker Channel requests
 
 Docs:
+
 '''python
-# -*- coding: utf-8 -*-
 
 import requests
 
