@@ -5,6 +5,6 @@ python:
 install: python setup.py install
 
 deploy:
-    provider:pypi
+    provider: pypi
     user: "Samotron"
     password: "HMvJeK9unsgrV2mYK0aD9nnoisnHd42nbh7OyKgVdYXSLgMhKz+Q37ltHG9uNJ2xpPDzsGh7TDN0fBjJBESth8fSwau6zBgtUwUJSK0v/lOJV6B+sjK9YEpHLYbyq+nFBMqTtv3JpShK/Xi/TAEj66Mp8FHtyqcxS+isO6hpvuDtdUGsLlHU3ZU5Pe78QZLrAWnvhghrdSudL8OQVZigXsWpqHEVQgaaiGfX0QjcO0nfAIZFepH+2fWO2K2HBK9/BbjbdCjd9C+BCCUEcm31xBdAvsS1Cy/acGuGzpTyXdrcjALf5r6WGSrenY5qI9nnpGudXGGUJjOBjNnAQnSJP5yBEbg/eB02k/ugEvZ41GAb0FeIb7b+fEZK56g7Hp0I5IV0jweWWjeXwpcACa5o1kkgmPmZKbMvr7EyD8C1yZhI4azxHNfzauTo29WV/53f0ZeprOh1BLsEnDKV5rMv4ayIctmQUtrfl0GCA53ZuLurd7S9XXLyosbNWNvAdaofo2QXA9l6O7jwvryW+31YbUD4Ss3J2tIn5/OpeagBlGYsSqe8IIcuY2sljx8dQs0+K4/5iZWyj3VoAla+ytt2gMWVUny1jW4RN/zEaIWbDHWjh7Qja9u70IAoTlUcmReY/UCXik+7iA2lWH06g6dt903AzcVa3t3xT4KhIUhbNNY="
